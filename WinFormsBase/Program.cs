@@ -5,6 +5,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Security.Cryptography;
 using System.Text;
+using System.Data.SqlClient;
+using System.Data;
+
 
 namespace WinFormsBase
 {
@@ -15,12 +18,12 @@ namespace WinFormsBase
         /// </summary>
         ///
 
-
         
-        [STAThread]
-        static void Main(string[] args)
-        {
 
+          [STAThread]
+        static void Main()
+        {
+            
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
@@ -30,6 +33,7 @@ namespace WinFormsBase
 
         }
 
+        
 
 
     }

@@ -37,9 +37,8 @@ namespace WinFormsBase
             this.txt_PassWord = new System.Windows.Forms.TextBox();
             this.btn_Login = new System.Windows.Forms.Button();
             this.lbl_Title = new System.Windows.Forms.Label();
-            this.pic_close = new System.Windows.Forms.PictureBox();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            ((System.ComponentModel.ISupportInitialize)(this.pic_close)).BeginInit();
+            this.txt_dbstate = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // lbl_LoginUser
@@ -74,6 +73,7 @@ namespace WinFormsBase
             this.txt_UserName.Name = "txt_UserName";
             this.txt_UserName.Size = new System.Drawing.Size(100, 20);
             this.txt_UserName.TabIndex = 1;
+            this.txt_UserName.TextChanged += new System.EventHandler(this.txt_UserName_TextChanged);
             this.txt_UserName.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_UserName_KeyDown);
             // 
             // txt_PassWord
@@ -115,25 +115,21 @@ namespace WinFormsBase
             this.lbl_Title.TabIndex = 0;
             this.lbl_Title.Text = "欢迎使用***登陆系统";
             this.lbl_Title.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.lbl_Title.Click += new System.EventHandler(this.lbl_Title_Click);
             this.lbl_Title.MouseDown += new System.Windows.Forms.MouseEventHandler(this.lbl_title_MouseDown);
             this.lbl_Title.MouseMove += new System.Windows.Forms.MouseEventHandler(this.lbl_title_MouseMove);
-            // 
-            // pic_close
-            // 
-            this.pic_close.BackColor = System.Drawing.Color.Transparent;
-            this.pic_close.Image = ((System.Drawing.Image)(resources.GetObject("pic_close.Image")));
-            this.pic_close.Location = new System.Drawing.Point(337, 0);
-            this.pic_close.Name = "pic_close";
-            this.pic_close.Size = new System.Drawing.Size(43, 48);
-            this.pic_close.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pic_close.TabIndex = 4;
-            this.pic_close.TabStop = false;
-            this.pic_close.Click += new System.EventHandler(this.pic_close_Click);
             // 
             // contextMenuStrip1
             // 
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            // 
+            // txt_dbstate
+            // 
+            this.txt_dbstate.Location = new System.Drawing.Point(12, 12);
+            this.txt_dbstate.Name = "txt_dbstate";
+            this.txt_dbstate.Size = new System.Drawing.Size(195, 23);
+            this.txt_dbstate.TabIndex = 4;
             // 
             // FrmLogin
             // 
@@ -142,13 +138,14 @@ namespace WinFormsBase
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(101)))), ((int)(((byte)(107)))));
             this.ClientSize = new System.Drawing.Size(380, 295);
-            this.Controls.Add(this.pic_close);
+            this.Controls.Add(this.txt_dbstate);
             this.Controls.Add(this.btn_Login);
             this.Controls.Add(this.txt_PassWord);
             this.Controls.Add(this.txt_UserName);
             this.Controls.Add(this.lbl_LoginPassWord);
             this.Controls.Add(this.lbl_Title);
             this.Controls.Add(this.lbl_LoginUser);
+            this.Cursor = System.Windows.Forms.Cursors.PanSE;
             this.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.HelpButton = true;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -158,7 +155,6 @@ namespace WinFormsBase
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "登录";
             this.Load += new System.EventHandler(this.FrmLogin_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pic_close)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -172,10 +168,8 @@ namespace WinFormsBase
         private System.Windows.Forms.TextBox txt_PassWord;
         private System.Windows.Forms.Button btn_Login;
         private System.Windows.Forms.Label lbl_Title;
-        private System.Windows.Forms.PictureBox pic_close;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
-
-
+        public System.Windows.Forms.TextBox txt_dbstate;
     }
 }
 

@@ -4,7 +4,6 @@ D:\研究生学习\C#\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\WinForms
 D:\研究生学习\C#\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\WinFormsBase.runtimeconfig.dev.json
 D:\研究生学习\C#\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\WinFormsBase.dll
 D:\研究生学习\C#\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\WinFormsBase.pdb
-D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.csproj.AssemblyReference.cache
 D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.csproj.GenerateResource.cache
 D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.GeneratedMSBuildEditorConfig.editorconfig
 D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.AssemblyInfoInputs.cache
@@ -15,4 +14,11 @@ D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinForms
 D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.genruntimeconfig.cache
 D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.FrmLogin.resources
 D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.Properties.Resources.resources
-D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.FrmManipulation.resources
+D:\研究生学习\C#\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\研究生学习\C#\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\研究生学习\C#\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\研究生学习\C#\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\研究生学习\C#\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\研究生学习\C#\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.csproj.CopyComplete
+D:\研究生学习\C#\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.csproj.AssemblyReference.cache
