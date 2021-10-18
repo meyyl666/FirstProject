@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\研究生学习\\C#\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj": {}
+    "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj": {}
   },
   "projects": {
-    "D:\\研究生学习\\C#\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj": {
+    "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\研究生学习\\C#\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
+        "projectUniqueName": "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
         "projectName": "WinFormsBase",
-        "projectPath": "D:\\研究生学习\\C#\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
+        "projectPath": "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
         "packagesPath": "C:\\Users\\meyyl666\\.nuget\\packages\\",
-        "outputPath": "D:\\研究生学习\\C#\\WinFormsBase\\WinFormsBase\\obj\\",
+        "outputPath": "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\vsSDK\\NuGetPackages",

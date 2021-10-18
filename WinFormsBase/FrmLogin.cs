@@ -81,18 +81,32 @@ namespace WinFormsBase
         private void lbl_login_Click(object sender, EventArgs e)
         {
             #region 用户与密码是否正确不正确给三次机会然后关闭
-            cl.LName = this.txt_UserName.Text;
-            cl.LPwd = clsMD5Encrypt.GetMD5Password(this.txt_PassWord.Text.Trim().ToString());
-            string power = cm.select_table(cl);
-            if(power != "none")
+            cl.LName = this.txt_UserName.Text;    //获取用户输入的用户名
+            cl.LPwd = this.txt_PassWord.Text;  //获取用户输入的密码
+            //clsMD5Encrypt.GetMD5Password(this.txt_PassWord.Text.Trim().ToString())
+            string Pwd = cm.Select_Table(cl);  //查询该用户正确密码
+            if(Pwd == cl.LPwd)
             {
                 MessageBox.Show("登陆成功");
+
+
+                //下面要进入操作界面了
+
+                ///////////////////////////////////////
+                ///
+
+                //////////////////////////////////
+
             }
-            else if(this.txt_UserName.Text == ""&&this.txt_PassWord.Text == "")
+            else if(this.txt_UserName.Text == "" || this.txt_PassWord.Text == "")
             {
-                MessageBox.Show("啥也没有登录啥");
+                MessageBox.Show("请输入用户名或密码");
             }
-            else
+            else if(Pwd == "error")
+            {
+                MessageBox.Show("请检查数据库名与查询表名是否出现错误");
+            }
+            else   //密码输入错误
             {
                 if(ErrorNum == cl.LName)
                 {
@@ -107,7 +121,7 @@ namespace WinFormsBase
                     ErrorNum = cl.LName;
                     Num++;
                 }
-                MessageBox.Show("密码有误,三次后将自动关闭,这是第" + Num + "次");
+                MessageBox.Show("用户名或密码有误,三次后将自动关闭,这是第" + Num + "次");
                 this.txt_PassWord.Text = string.Empty;
                 this.txt_PassWord.Focus();
             }
@@ -142,17 +156,34 @@ namespace WinFormsBase
         }
 
 
+        /// <summary>
+        /// 加载登录界面时，进行连接数据库测试
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void FrmLogin_Load(object sender, EventArgs e)
         {
-            //string cnnstr = CSql.GetRemoteCnnStr("DESKTOP-9OCF6G3", "sa", "qq64022020", "db_House");
             try
             {
-                using (con._mySql = new SqlConnection("server=DESKTOP-9OCF6G3;pwd=qq64022020;uid=sa;database=db_Point"))
+                con.ConDatabase();    //连接数据库
+                if (con._mySql.State == ConnectionState.Open)
                 {
-                    con._mySql.Open();
                     txt_dbstate.Text = "数据库连接成功";
-                    con._mySql.Close();
                 }
+                else
+                {
+                    txt_dbstate.Text = "数据库未连接";
+                }
+                //using (con._mySql = new SqlConnection("server=DESKTOP-9OCF6G3;pwd=qq64022020;uid=sa;database=db_Point"))
+                //{
+                //    con._mySql.Open();
+
+                //    if (con._mySql.State == ConnectionState.Open)
+                //    {
+                //        txt_dbstate.Text = "数据库连接成功";
+                //        con._mySql.Close();//关闭连接
+                //    }
+                //}
             }
             catch (Exception ex)
             {
@@ -167,6 +198,7 @@ namespace WinFormsBase
         {
             
         }
+
 
         private void txt_UserName_TextChanged(object sender, EventArgs e)
         {

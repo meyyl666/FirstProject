@@ -3,46 +3,41 @@ using System.Collections.Generic;
 using System.Text;
 using System.Data.SqlClient;
 using System.Data;
+using System.Windows.Forms;
 
 namespace WinFormsBase.mothedCls
 {
     class clsLoginMethed
     {
-        ClsCon con = new ClsCon();
+        ClsCon con = new ClsCon();   //创建数据库连接关闭对象
 
-        public string select_table(clsLogin cf)
+        public string Select_Table(clsLogin cf)     //查询用户表 
         {
+            string login_name = cf.LName;
+            string login_pwd = cf.LPwd;
             try
             {
-                con.ConDatabase();
-                
-                SqlCommand cmd = new SqlCommand("SELECT", con._mySql);
-                cmd.Connection.Open();
-                SqlParameter[] prams =
-                {
-                    new SqlParameter("@login_name",SqlDbType.VarChar,50),
-                    new SqlParameter("@login_pwd",SqlDbType.VarChar,50),
-                    new SqlParameter("@ReturnInfo",SqlDbType.VarChar,50, ParameterDirection.Output,true, 0, 0, string.Empty,DataRowVersion.Default, null)
-                };
-                prams[0].Value = cf.LName;
-                prams[1].Value = cf.LPwd;
-
-                //添加参数
-                foreach(SqlParameter parameter in prams)
-                {
-                    cmd.Parameters.Add(parameter);
-                }
-                cmd.ExecuteNonQuery();
-                string strResult = cmd.Parameters["@ReturnInfo"].Value.ToString();
+                con.ConDatabase();    //创建并打开数据库
+                //检验是否有该用户，如果有，则匹配密码
+                SqlCommand cmd = con._mySql.CreateCommand();
+                cmd.CommandText = @"SELECT user_pwd FROM tb_User WHERE user_name = @d;";
+                cmd.Parameters.AddWithValue("@d", login_name);
+                object Right_Pwd = cmd.ExecuteScalar();
                 con.closeCon();
-                return strResult;
+                if (Right_Pwd == null)
+                    return null;
+                else
+                    return Right_Pwd.ToString();
             }
-            catch(Exception ey)
+            catch
             {
                 con.closeCon();
-                return ey.Message.ToString();
+                return "error";
             }
         }
+
+
+
 
 
         public object Result_First;   //储存查询结果中第一条记录第一个字段的值

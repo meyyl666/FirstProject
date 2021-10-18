@@ -4,6 +4,7 @@ using System.Text;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Windows.Forms;
 
 namespace WinFormsBase.mothedCls
 {
@@ -14,7 +15,7 @@ namespace WinFormsBase.mothedCls
     class ClsCon
     {
         public string sever_name = "DESKTOP-9OCF6G3";
-        public string db_name = "db_Point";
+        public string db_name = "db_Mechine";
 
         public SqlConnection _mySql;
         
@@ -25,19 +26,10 @@ namespace WinFormsBase.mothedCls
         public void ConDatabase()
         {
             //第一种方法
-            try
-            {
-                using (_mySql = new SqlConnection("server=DESKTOP-9OCF6G3;pwd=qq64022020;uid=sa;database=db_Point"))
-                {
-                    _mySql.Open();
-                }
+                _mySql = new SqlConnection("server=DESKTOP-9OCF6G3;pwd=qq64022020;uid=sa;database=db_Mechine");
 
-            }
-            catch
-            {
-                
-            }
-             
+                _mySql.Open();    //打开数据库 
+
 
             //第二种方法
             //string cnnstr = CSql.GetRemoteCnnStr(sever_name, "sa", "qq64022020", db_name);

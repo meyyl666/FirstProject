@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i4XqbxIoZh99AYUh12HGv/DqpVGIhC3wPeQkYiQkGxJsKz0FvnRV5ttVHrMumCzDNCwfYYTkKRyUqqpT1JHLWA==",
+  "dgSpecHash": "Jbol7MQBKiwlixK0YctVo2z2dABR8+CBFZ10uSk3L8evaE73XZGr9rBP8IyQQkSvqWkkkSKllADhdK4XGvWE5Q==",
   "success": true,
-  "projectFilePath": "D:\\研究生学习\\C#\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
+  "projectFilePath": "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\meyyl666\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\meyyl666\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

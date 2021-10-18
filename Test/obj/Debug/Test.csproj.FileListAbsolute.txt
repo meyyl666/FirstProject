@@ -1,0 +1,10 @@
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\Test\bin\Debug\Test.exe.config
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\Test\bin\Debug\Test.exe
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\Test\bin\Debug\Test.pdb
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\Test\obj\Debug\Test.Form1.resources
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\Test\obj\Debug\Test.exe
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\Test\obj\Debug\Test.pdb
