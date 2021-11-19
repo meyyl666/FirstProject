@@ -483,23 +483,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Mamoon\\.nuget\\packages\\": {},
+    "D:\\VS2017\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\项目 (1)\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
+      "projectUniqueName": "E:\\桌面\\上位机\\PROGRAM\\WinFormsBase\\WinFormsBase.csproj",
       "projectName": "WinFormsBase",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\项目 (1)\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\项目 (1)\\上位机\\WinFormsBase\\WinFormsBase\\obj\\",
+      "projectPath": "E:\\桌面\\上位机\\PROGRAM\\WinFormsBase\\WinFormsBase.csproj",
+      "packagesPath": "C:\\Users\\Mamoon\\.nuget\\packages\\",
+      "outputPath": "E:\\桌面\\上位机\\PROGRAM\\WinFormsBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\VS2017\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mamoon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -553,7 +555,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

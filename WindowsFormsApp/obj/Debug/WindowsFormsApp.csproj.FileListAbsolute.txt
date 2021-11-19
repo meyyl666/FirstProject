@@ -21,3 +21,26 @@ C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp
 C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\obj\Debug\WindowsFormsApp.mothedConnect.FrmClinet.resources
 C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\obj\Debug\WindowsFormsApp.mothedConnect.FrmServer.resources
 C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\bin\Debug\CSkin.dll
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\bin\Debug\Hsc3ApidCS.dll
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\bin\Debug\HttpCodeLib.dll
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\bin\Debug\HZH_Controls.dll
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\bin\Debug\NModbus.dll
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\bin\Debug\NModbus.xml
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.formConfig.FrmDebug.resources
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.FrmDebug.resources
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WinFormsBase.FrmLogin.resources
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WinFormsBase.FrmWorking.resources
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.IPCheck.IPCheck.resources
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.mothedConnect.FrmClinet.resources
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.mothedConnect.FrmServer.resources
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\桌面\上位机\PROGRAM\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
