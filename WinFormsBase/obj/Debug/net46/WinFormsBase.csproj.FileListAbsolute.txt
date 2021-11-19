@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\net46\WinFormsBase.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\net46\WinFormsBase.frmLogin.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\net46\WinFormsBase.FrmWorking.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\net46\WinFormsBase.mothedConnect.FrmClinet.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\net46\WinFormsBase.mothedConnect.FrmServer.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\net46\WinFormsBase.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\net46\WinFormsBase.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\net46\WinFormsBase.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\net46\WinFormsBase.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\net46\WinFormsBase.csproj.CoreCompileInputs.cache

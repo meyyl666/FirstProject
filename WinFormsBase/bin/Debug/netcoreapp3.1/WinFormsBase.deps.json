@@ -8,7 +8,11 @@
     ".NETCoreApp,Version=v3.1": {
       "WinFormsBase/1.0.0": {
         "dependencies": {
-          "System.Data.SqlClient": "4.8.3"
+          "NModbus": "3.0.62",
+          "System.Data.SqlClient": "4.8.3",
+          "CSkin": "16.1.14.3",
+          "Hsc3ApidCS": "1.0.0.0",
+          "HZH_Controls": "1.0.0.0"
         },
         "runtime": {
           "WinFormsBase.dll": {}
@@ -19,6 +23,14 @@
         "dependencies": {
           "System.Security.AccessControl": "4.7.0",
           "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "NModbus/3.0.62": {
+        "runtime": {
+          "lib/netstandard2.0/NModbus.dll": {
+            "assemblyVersion": "3.0.62.0",
+            "fileVersion": "3.0.62.0"
+          }
         }
       },
       "runtime.native.System.Data.SqlClient.sni/4.7.0": {
@@ -88,7 +100,39 @@
           "System.Security.Principal.Windows": "4.7.0"
         }
       },
-      "System.Security.Principal.Windows/4.7.0": {}
+      "System.Security.Principal.Windows/4.7.0": {},
+      "CSkin/16.1.14.3": {
+        "runtime": {
+          "CSkin.dll": {
+            "assemblyVersion": "16.1.14.3",
+            "fileVersion": "16.1.14.3"
+          }
+        }
+      },
+      "Hsc3ApidCS/1.0.0.0": {
+        "runtime": {
+          "Hsc3ApidCS.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HZH_Controls/1.0.0.0": {
+        "runtime": {
+          "HZH_Controls.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CommApidCS/1.0.0.0": {
+        "runtime": {
+          "CommApidCS.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -110,6 +154,13 @@
       "sha512": "sha512-KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
       "path": "microsoft.win32.registry/4.7.0",
       "hashPath": "microsoft.win32.registry.4.7.0.nupkg.sha512"
+    },
+    "NModbus/3.0.62": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NE2DxRMMuLudN7cl39swpXwLzsfOIH3JGIdoCrcGSk8Ppj8MzZjPD/goP8ldF85ILo4WtB9dRbaN7hMOHWp9DQ==",
+      "path": "nmodbus/3.0.62",
+      "hashPath": "nmodbus.3.0.62.nupkg.sha512"
     },
     "runtime.native.System.Data.SqlClient.sni/4.7.0": {
       "type": "package",
@@ -159,6 +210,26 @@
       "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
       "path": "system.security.principal.windows/4.7.0",
       "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "CSkin/16.1.14.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hsc3ApidCS/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HZH_Controls/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommApidCS/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

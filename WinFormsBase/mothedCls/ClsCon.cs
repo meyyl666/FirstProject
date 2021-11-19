@@ -22,28 +22,15 @@ namespace WinFormsBase.mothedCls
         /// <summary>
         /// 数据库连接
         /// </summary>
+        /// 
 
         public void ConDatabase()
         {
             //第一种方法
-                _mySql = new SqlConnection("server=DESKTOP-9OCF6G3;pwd=qq64022020;uid=sa;database=db_Mechine");
+                _mySql = new SqlConnection("server=PC-201805101742;pwd=qq64022020;uid=sa;database=db_Mechine");
 
                 _mySql.Open();    //打开数据库 
 
-
-            //第二种方法
-            //string cnnstr = CSql.GetRemoteCnnStr(sever_name, "sa", "qq64022020", db_name);
-            //try
-            //{
-            //    using (_mySql = new SqlConnection(cnnstr))
-            //    {
-            //        _mySql.Open();
-            //    }
-            //}
-            //catch (Exception ex)
-            //{
-                
-            //}
         }
         /// <summary>
         /// 关闭数据库

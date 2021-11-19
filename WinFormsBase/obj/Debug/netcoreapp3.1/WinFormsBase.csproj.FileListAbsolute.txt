@@ -46,3 +46,35 @@ C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\WinFormsBase\obj\Debug\n
 C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.dll
 C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.pdb
 C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.genruntimeconfig.cache
+C:\Users\meyyl666\Desktop\项目\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.mothedConnect.Clinet.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\WinFormsBase.exe
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\WinFormsBase.deps.json
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\WinFormsBase.runtimeconfig.json
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\WinFormsBase.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\WinFormsBase.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\WinFormsBase.pdb
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.FrmLogin.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.pdb
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.mothedConnect.FrmClinet.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.mothedConnect.FrmServer.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.FrmWorking.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\NModbus.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\CSkin.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\Hsc3ApidCS.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\HZH_Controls.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\bin\Debug\netcoreapp3.1\CommApidCS.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WinFormsBase\obj\Debug\netcoreapp3.1\WinFormsBase.GeneratedMSBuildEditorConfig.editorconfig

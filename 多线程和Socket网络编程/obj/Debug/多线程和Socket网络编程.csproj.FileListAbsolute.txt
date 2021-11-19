@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\多线程和Socket网络编程\bin\Debug\多线程和Socket网络编程.exe.config
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\多线程和Socket网络编程\bin\Debug\多线程和Socket网络编程.exe
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\多线程和Socket网络编程\bin\Debug\多线程和Socket网络编程.pdb
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\多线程和Socket网络编程\obj\Debug\多线程和Socket网络编程.Form1.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\多线程和Socket网络编程\obj\Debug\多线程和Socket网络编程.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\多线程和Socket网络编程\obj\Debug\多线程和Socket网络编程.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\多线程和Socket网络编程\obj\Debug\多线程和Socket网络编程.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\多线程和Socket网络编程\obj\Debug\多线程和Socket网络编程.exe
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\多线程和Socket网络编程\obj\Debug\多线程和Socket网络编程.pdb
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\多线程和Socket网络编程\obj\Debug\多线程和Socket网络编程.csproj.AssemblyReference.cache

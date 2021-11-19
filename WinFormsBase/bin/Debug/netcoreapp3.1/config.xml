@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<setItem>
+  <CameraIP>192.168.250.60</CameraIP>
+  <CameraPort>8999</CameraPort>
+  <params>
+    <ConfigData ParamName="参数" ParamLength="1" ParamUnit="单位">123</ConfigData>
+    <ConfigData ParamName="参数" ParamLength="1" ParamUnit="单位">456</ConfigData>
+    <ConfigData ParamName="参数" ParamLength="1" ParamUnit="单位">789</ConfigData>
+  </params>
+</setItem>

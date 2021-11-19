@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\项目 (1)\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\项目 (1)\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\项目 (1)\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
         "projectName": "WinFormsBase",
-        "projectPath": "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
-        "packagesPath": "C:\\Users\\meyyl666\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\meyyl666\\Desktop\\项目\\上位机\\WinFormsBase\\WinFormsBase\\obj\\",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\项目 (1)\\上位机\\WinFormsBase\\WinFormsBase\\WinFormsBase.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\项目 (1)\\上位机\\WinFormsBase\\WinFormsBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\vsSDK\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\meyyl666\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -46,6 +44,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "NModbus": {
+              "target": "Package",
+              "version": "[3.0.62, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.3, )"
@@ -69,7 +71,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

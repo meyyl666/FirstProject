@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Drawing.Drawing2D;
 using System.Data.SqlClient;
 using WinFormsBase.mothedCls;
+using WinFormsBase.mothedConnect;
 
 
 namespace WinFormsBase
@@ -92,10 +93,10 @@ namespace WinFormsBase
 
                 //下面要进入操作界面了
 
-                ///////////////////////////////////////
-                ///
+                this.Visible = false;
+                FrmServer FrmClinet = new FrmServer();
 
-                //////////////////////////////////
+                FrmClinet.ShowDialog();
 
             }
             else if(this.txt_UserName.Text == "" || this.txt_PassWord.Text == "")
@@ -174,16 +175,7 @@ namespace WinFormsBase
                 {
                     txt_dbstate.Text = "数据库未连接";
                 }
-                //using (con._mySql = new SqlConnection("server=DESKTOP-9OCF6G3;pwd=qq64022020;uid=sa;database=db_Point"))
-                //{
-                //    con._mySql.Open();
 
-                //    if (con._mySql.State == ConnectionState.Open)
-                //    {
-                //        txt_dbstate.Text = "数据库连接成功";
-                //        con._mySql.Close();//关闭连接
-                //    }
-                //}
             }
             catch (Exception ex)
             {

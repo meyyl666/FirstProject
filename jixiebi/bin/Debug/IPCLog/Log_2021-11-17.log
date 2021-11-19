@@ -1,0 +1,10 @@
+10:10:14:890  Info  TCP连接成功 IP:192.168.250.65
+17:51:06:565  Info  TCP连接成功 IP:192.168.250.65
+17:51:06:684  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+17:51:06:698  Info  成功发送指令mot.setGpEn(0,true):
+17:51:06:904  Info  成功发送指令mot.setOpMode(1):
+17:51:06:928  Info  成功发送指令mot.setJogVord(20):
+17:51:07:034  Info  成功发送指令mot.setInchLen(10):
+17:51:07:080  Info  成功发送指令mot.startJog(0,0,1):
+17:51:07:086  Info  TCP断开连接成功
+17:51:07:106  Error  一个封锁操作被对 WSACancelBlockingCall 的调用中断。

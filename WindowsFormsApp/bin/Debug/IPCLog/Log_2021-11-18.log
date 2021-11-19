@@ -1,0 +1,470 @@
+13:28:35:480  Info  TCP连接成功 IP:192.168.250.65
+13:28:35:902  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:28:39:014  Info  TCP断开连接成功
+13:28:39:016  Error  一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+13:28:41:196  Info  TCP连接成功 IP:192.168.250.65
+13:28:41:224  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:28:43:477  Info  TCP断开连接成功
+13:31:29:299  Info  TCP连接成功 IP:192.168.250.65
+13:31:29:311  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:43:05:598  Info  TCP连接成功 IP:192.168.250.65
+13:43:05:973  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:43:13:156  Error  等待超时 strCmd:vm.load(C: \Users\Administrator\Desktop\项目(1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+13:43:26:164  Info  TCP断开连接成功
+13:54:07:905  Info  TCP连接成功 IP:192.168.250.65
+13:54:08:293  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:54:10:247  Info  成功发送指令mot.setOpMode(3):
+13:54:10:354  Info  成功发送指令mot.setGpEn(0,true):
+13:54:13:375  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+13:54:13:400  Info  成功发送指令vm.start(T1102.PRG):""
+13:54:21:131  Info  TCP断开连接成功
+13:55:43:077  Info  TCP连接成功 IP:192.168.250.65
+13:55:43:450  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:55:51:365  Info  成功发送指令mot.setGpEn(0,true):
+13:55:56:120  Info  成功发送指令mot.setOpMode(3):
+13:56:02:401  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+13:56:44:161  Error  等待超时 strCmd:vm.start(T1102.PRG)
+13:56:47:651  Error  远程主机强迫关闭了一个现有的连接。
+13:57:50:228  Info  TCP连接成功 IP:192.168.250.65
+13:57:50:497  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:57:53:111  Info  成功发送指令mot.setGpEn(0,true):
+13:57:53:286  Info  成功发送指令mot.setOpMode(3):
+13:57:56:312  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+13:57:56:322  Info  成功发送指令vm.start(T1102.PRG):""
+13:57:58:927  Info  TCP断开连接成功
+14:01:50:079  Error  TCP断开连接失败
+14:10:03:794  Info  TCP连接成功 IP:192.168.250.65
+14:10:04:227  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:10:05:756  Info  成功发送指令mot.setGpEn(0,true):
+14:10:05:910  Info  成功发送指令mot.setOpMode(3):
+14:10:05:948  Info  成功发送指令mot.setVord(10):
+14:10:08:975  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+14:10:09:000  Info  成功发送指令vm.start(T1102.PRG):""
+14:15:33:572  Info  TCP连接成功 IP:192.168.250.65
+14:15:33:919  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:15:35:807  Info  成功发送指令mot.setGpEn(0,true):
+14:15:36:075  Info  成功发送指令mot.setOpMode(3):
+14:15:36:126  Info  成功发送指令mot.setVord(10):
+14:15:39:157  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+14:15:39:169  Info  成功发送指令vm.start(T1102.PRG):""
+14:18:18:524  Info  TCP连接成功 IP:192.168.250.65
+14:18:18:954  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:18:20:461  Info  成功发送指令mot.setGpEn(0,true):
+14:18:20:685  Info  成功发送指令mot.setOpMode(3):
+14:18:20:951  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+14:18:20:963  Info  成功发送指令mot.setVord(10):
+14:18:23:984  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+14:18:24:007  Info  成功发送指令vm.start(T1102.PRG):""
+14:20:08:565  Info  TCP连接成功 IP:192.168.250.65
+14:20:08:961  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:20:11:087  Info  成功发送指令mot.setGpEn(0,true):
+14:20:11:207  Info  成功发送指令mot.setOpMode(3):
+14:20:11:271  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+14:20:11:282  Info  成功发送指令mot.setVord(20):
+14:20:14:300  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+14:20:14:313  Info  成功发送指令vm.start(T1102.PRG):""
+14:20:44:959  Info  成功发送指令mot.setGpEn(0,true):
+14:20:45:161  Info  成功发送指令mot.setOpMode(3):
+14:20:45:250  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+14:20:45:270  Info  成功发送指令mot.setVord(20):
+14:20:48:283  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+14:20:48:308  Info  成功发送指令vm.start(T1102.PRG):""
+14:20:56:129  Info  TCP断开连接成功
+14:24:50:203  Info  TCP连接成功 IP:192.168.250.65
+14:24:50:618  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:24:52:352  Info  成功发送指令mot.setGpEn(0,true):
+14:24:52:488  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+14:24:52:688  Info  成功发送指令mot.setOpMode(3):
+14:24:52:751  Info  成功发送指令mot.setVord(20):
+14:24:55:774  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+14:24:55:799  Info  成功发送指令vm.start(T1102.PRG):""
+14:25:24:216  Info  TCP断开连接成功
+14:25:24:219  Error  你的主机中的软件中止了一个已建立的连接。
+14:33:51:233  Info  TCP连接成功 IP:192.168.250.65
+14:33:51:648  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:33:53:537  Info  成功发送指令mot.setGpEn(0,true):
+14:33:53:800  Info  成功发送指令mot.setOpMode(3):
+14:33:53:833  Info  成功发送指令mot.setVord(20):
+14:33:56:854  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+14:33:56:873  Info  成功发送指令vm.start(T1102.PRG):""
+14:33:59:817  Info  TCP断开连接成功
+17:07:43:923  Info  TCP连接成功 IP:192.168.250.65
+17:07:44:363  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+17:07:45:797  Info  成功发送指令mot.setGpEn(0,true):
+17:07:46:014  Info  成功发送指令mot.setOpMode(3):
+17:07:46:034  Info  成功发送指令mot.setVord(20):
+17:07:49:079  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+17:07:49:216  Info  成功发送指令vm.start(T1102.PRG):""
+17:07:59:663  Info  成功发送指令mot.setGpEn(0,true):
+17:07:59:836  Info  成功发送指令mot.setOpMode(3):
+17:07:59:867  Info  成功发送指令mot.setVord(20):
+17:08:02:875  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+17:08:02:990  Info  成功发送指令vm.start(T1102.PRG):""
+17:08:23:411  Info  TCP连接成功 IP:192.168.250.65
+17:08:23:719  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+17:08:25:329  Info  成功发送指令mot.setGpEn(0,true):
+17:08:25:586  Info  成功发送指令mot.setOpMode(3):
+17:08:25:664  Info  成功发送指令mot.setVord(20):
+17:08:28:687  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+17:08:28:697  Info  成功发送指令vm.start(T1102.PRG):""
+17:08:49:724  Info  TCP连接成功 IP:192.168.250.65
+17:08:49:963  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+17:08:53:088  Info  成功发送指令mot.setGpEn(0,true):
+17:08:53:324  Info  成功发送指令mot.setOpMode(3):
+17:08:53:399  Info  成功发送指令mot.setVord(20):
+17:08:56:417  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+17:08:56:428  Info  成功发送指令vm.start(T1102.PRG):""
+17:08:58:170  Info  TCP断开连接成功
+17:10:53:825  Info  TCP连接成功 IP:192.168.250.65
+17:10:54:066  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+17:10:55:443  Info  成功发送指令mot.setGpEn(0,true):
+17:10:55:658  Info  成功发送指令mot.setOpMode(3):
+17:10:55:690  Info  成功发送指令mot.setVord(20):
+17:10:57:964  Info  成功发送指令mot.setGpEn(0,true):
+17:10:58:056  Info  成功发送指令mot.setOpMode(3):
+17:10:58:070  Info  成功发送指令mot.setVord(20):
+17:10:58:708  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+17:11:00:729  Info  成功发送指令vm.start(T1102.PRG):""
+17:11:01:088  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+17:11:01:998  Info  TCP断开连接成功
+17:11:23:600  Info  TCP连接成功 IP:192.168.250.65
+17:11:23:870  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+17:11:25:860  Info  成功发送指令mot.setGpEn(0,true):
+17:11:25:936  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+17:11:28:183  Info  成功发送指令mot.setOpMode(3):
+17:11:28:217  Info  成功发送指令mot.setVord(20):
+17:11:31:237  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+17:11:33:255  Info  成功发送指令vm.start(T1102.PRG):""
+17:21:04:132  Info  TCP连接成功 IP:192.168.250.65
+17:21:04:390  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+17:21:05:633  Info  成功发送指令mot.setGpEn(0,true):
+17:21:05:778  Info  成功发送指令mot.setOpMode(3):
+17:21:05:820  Info  成功发送指令mot.setVord(20):
+17:21:08:833  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+17:21:08:843  Info  成功发送指令vm.mainProgNames():"[]"
+17:21:10:871  Info  成功发送指令vm.start(T1102.PRG):""
+17:21:14:969  Info  TCP断开连接成功
+17:34:47:728  Error  TCP断开连接失败
+17:36:04:916  Info  TCP连接成功 IP:192.168.250.65
+17:36:05:286  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+17:36:06:930  Info  成功发送指令mot.setGpEn(0,true):
+17:36:07:157  Info  成功发送指令mot.setOpMode(3):
+17:36:07:222  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+17:36:07:252  Info  成功发送指令mot.setVord(20):
+17:36:10:276  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+17:36:10:309  Info  成功发送指令vm.mainProgNames():"[]"
+17:36:12:331  Info  成功发送指令vm.start(T1102.PRG):""
+17:36:33:244  Info  TCP断开连接成功
+18:07:54:931  Info  TCP连接成功 IP:192.168.250.65
+18:07:55:328  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+18:07:59:253  Info  成功发送指令mot.setGpEn(0,true):
+18:07:59:498  Info  成功发送指令mot.setOpMode(3):
+18:07:59:598  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+18:07:59:617  Info  成功发送指令mot.setVord(20):
+18:08:02:650  Error  等待超时 strCmd:vm.load(C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\WindowsFormsApp\bin\Debug,T1102.PRG)
+18:08:04:664  Info  成功发送指令vm.start(T1102.PRG):""
+18:09:46:723  Info  TCP断开连接成功
+19:58:07:132  Error  TCP断开连接失败
+20:29:17:244  Info  TCP连接成功 IP:192.168.250.65
+20:29:17:685  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:29:20:081  Info  成功发送指令mot.setGpEn(0,true):
+20:29:20:253  Info  成功发送指令mot.setOpMode(3):
+20:29:20:316  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:29:20:342  Info  成功发送指令mot.setVord(20):
+20:29:20:405  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:29:22:431  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:31:04:889  Info  成功发送指令vm.pause(T1102.PRG):""
+20:32:05:878  Info  成功发送指令mot.setGpEn(0,true):
+20:32:06:102  Info  成功发送指令mot.setOpMode(3):
+20:32:06:167  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:32:06:206  Info  成功发送指令mot.setVord(20):
+20:32:06:272  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:32:08:326  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:32:08:418  Info  成功发送指令vm.pause(T1102.PRG):""
+20:32:21:572  Info  TCP断开连接成功
+20:32:21:577  Error  一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+20:33:44:622  Info  TCP连接成功 IP:192.168.250.65
+20:33:45:109  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:33:49:044  Info  成功发送指令mot.setGpEn(0,true):
+20:33:49:253  Info  成功发送指令mot.setOpMode(3):
+20:33:49:332  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:33:49:344  Info  成功发送指令mot.setVord(50):
+20:33:49:360  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:33:51:391  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:34:04:562  Info  成功发送指令vm.pause(T1102.PRG):""
+20:35:03:835  Info  成功发送指令mot.setGpEn(0,true):
+20:35:04:020  Info  成功发送指令mot.setOpMode(3):
+20:35:04:088  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:35:04:111  Info  成功发送指令mot.setVord(50):
+20:35:04:140  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:35:06:203  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:35:49:293  Info  TCP断开连接成功
+20:36:55:775  Info  TCP连接成功 IP:192.168.250.65
+20:36:56:270  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:36:57:313  Info  成功发送指令mot.setGpEn(0,true):
+20:36:57:417  Info  成功发送指令mot.setOpMode(3):null
+20:36:57:511  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:36:57:571  Info  成功发送指令mot.setVord(75):
+20:36:57:610  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:36:59:668  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:37:25:657  Info  成功发送指令vm.pause(T1102.PRG):""
+20:46:25:867  Info  TCP连接成功 IP:192.168.250.65
+20:46:26:359  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:46:26:833  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+20:46:28:729  Info  成功发送指令mot.setGpEn(0,true):
+20:46:28:906  Info  成功发送指令mot.setOpMode(3):
+20:46:29:021  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:46:29:050  Info  成功发送指令mot.setVord(75):
+20:46:29:072  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:46:29:087  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:46:45:470  Info  TCP断开连接成功
+20:48:14:116  Info  TCP连接成功 IP:192.168.250.65
+20:48:14:367  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:48:15:205  Info  成功发送指令vm.unload(T1102.PRG):""
+20:48:16:091  Info  成功发送指令mot.setGpEn(0,true):
+20:48:16:266  Info  成功发送指令mot.setOpMode(3):
+20:48:16:362  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:48:16:387  Info  成功发送指令mot.setVord(75):
+20:48:16:417  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:48:16:481  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:48:25:813  Info  TCP断开连接成功
+20:50:20:987  Info  TCP连接成功 IP:192.168.250.65
+20:50:21:256  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:50:22:061  Info  成功发送指令vm.unload(T1102.PRG):""
+20:50:28:382  Info  成功发送指令mot.setGpEn(0,true):
+20:50:28:554  Info  成功发送指令mot.setOpMode(3):
+20:50:28:634  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:50:28:648  Info  成功发送指令mot.setVord(75):
+20:50:28:720  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:50:28:738  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:50:54:060  Info  TCP断开连接成功
+20:50:56:641  Info  TCP连接成功 IP:192.168.250.65
+20:50:56:693  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:50:57:677  Info  成功发送指令vm.unload(T1102.PRG):""
+20:51:00:977  Info  TCP断开连接成功
+20:51:05:361  Info  TCP连接成功 IP:192.168.250.65
+20:51:05:395  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:51:06:404  Info  成功发送指令vm.unload(T1102.PRG):""
+20:51:07:029  Info  成功发送指令mot.setGpEn(0,true):
+20:51:07:165  Info  成功发送指令mot.setOpMode(3):
+20:51:07:234  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:51:07:256  Info  成功发送指令mot.setVord(75):
+20:51:07:292  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:51:07:325  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:51:13:465  Info  TCP断开连接成功
+20:51:58:372  Info  TCP连接成功 IP:192.168.250.65
+20:51:58:654  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:51:59:890  Info  成功发送指令mot.setGpEn(0,true):
+20:52:00:067  Info  成功发送指令mot.setOpMode(3):
+20:52:00:160  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:52:00:170  Info  成功发送指令mot.setVord(75):
+20:52:00:185  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:52:00:234  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:52:10:008  Info  TCP断开连接成功
+20:52:29:585  Info  TCP连接成功 IP:192.168.250.65
+20:52:29:914  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:52:32:171  Info  成功发送指令mot.setGpEn(0,true):
+20:52:32:419  Info  成功发送指令mot.setOpMode(3):
+20:52:32:445  Info  成功发送指令mot.setVord(75):
+20:52:32:491  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:52:32:532  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:52:49:114  Info  TCP断开连接成功
+20:54:20:965  Info  TCP连接成功 IP:192.168.250.65
+20:54:21:436  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:54:23:604  Info  成功发送指令mot.setGpEn(0,true):
+20:54:23:764  Info  成功发送指令mot.setOpMode(3):
+20:54:23:877  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:54:23:912  Info  成功发送指令mot.setVord(75):
+20:54:23:954  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:54:23:999  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:54:33:289  Info  TCP断开连接成功
+20:54:59:903  Info  TCP连接成功 IP:192.168.250.65
+20:55:00:186  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:55:00:967  Info  成功发送指令vm.unload(T1102.PRG):""
+20:55:08:105  Info  TCP断开连接成功
+20:55:09:096  Info  TCP连接成功 IP:192.168.250.65
+20:55:09:160  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:55:10:121  Info  成功发送指令vm.unload(T1102.PRG):""
+20:55:11:077  Info  TCP断开连接成功
+20:55:11:913  Info  TCP连接成功 IP:192.168.250.65
+20:55:11:968  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:55:12:953  Info  成功发送指令vm.unload(T1102.PRG):""
+20:55:13:869  Info  TCP断开连接成功
+20:55:56:099  Info  TCP连接成功 IP:192.168.250.65
+20:55:56:492  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:55:57:130  Info  成功发送指令vm.unload(T1102.PRG):""
+20:56:00:617  Info  成功发送指令mot.setGpEn(0,true):
+20:56:00:696  Info  成功发送指令mot.setOpMode(3):null
+20:56:00:771  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+20:56:00:786  Info  成功发送指令mot.setVord(75):
+20:56:00:810  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+20:56:00:822  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+20:56:04:307  Info  TCP断开连接成功
+20:56:09:551  Error  TCP断开连接失败
+20:56:37:283  Info  TCP连接成功 IP:192.168.250.65
+20:56:37:520  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:56:38:253  Info  成功发送指令vm.unload(T1102.PRG):""
+20:56:42:207  Info  TCP断开连接成功
+20:56:45:259  Error  TCP断开连接失败
+20:57:48:078  Error  TCP断开连接失败
+20:58:18:055  Info  TCP连接成功 IP:192.168.250.65
+20:58:18:385  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:58:19:197  Info  成功发送指令vm.pause(T1102.PRG):""
+20:58:19:248  Info  成功发送指令vm.unload(T1102.PRG):""
+20:58:29:936  Info  TCP断开连接成功
+20:58:32:920  Error  TCP断开连接失败
+20:58:57:877  Info  TCP连接成功 IP:192.168.250.65
+20:58:58:141  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:58:58:945  Info  成功发送指令vm.pause(T1102.PRG):""
+20:58:59:075  Info  成功发送指令vm.unload(T1102.PRG):""
+20:59:09:064  Info  TCP断开连接成功
+20:59:17:874  Error  TCP断开连接失败
+21:00:25:015  Error  TCP断开连接失败
+21:01:05:613  Info  TCP连接成功 IP:192.168.250.65
+21:01:05:834  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+21:01:06:648  Info  成功发送指令vm.pause(T1102.PRG):""
+21:01:06:770  Info  成功发送指令vm.unload(T1102.PRG):""
+21:01:08:600  Info  成功发送指令mot.setGpEn(0,true):
+21:01:08:753  Info  成功发送指令mot.setOpMode(3):
+21:01:08:852  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+21:01:08:874  Info  成功发送指令mot.setVord(75):
+21:01:08:887  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+21:01:08:923  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+21:01:28:745  Info  成功发送指令mot.setGpEn(0,true):
+21:01:28:855  Info  成功发送指令mot.setOpMode(3):null
+21:01:28:967  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+21:01:29:068  Info  成功发送指令mot.setVord(75):
+21:01:29:100  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+21:01:29:124  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+21:01:30:360  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:34:072  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:34:189  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:34:361  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:34:490  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:34:629  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:34:763  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:34:893  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:35:108  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:35:225  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:35:340  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:35:501  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:35:806  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:35:949  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:36:089  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:36:258  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:36:425  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:36:609  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:36:740  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:36:906  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:37:061  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:37:205  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:37:359  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:37:546  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:37:681  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:01:38:739  Info  TCP断开连接成功
+21:01:39:779  Info  TCP连接成功 IP:192.168.250.65
+21:01:39:821  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+21:01:49:082  Info  成功发送指令vm.pause(T1102.PRG):""
+21:01:49:226  Info  成功发送指令vm.unload(T1102.PRG):""
+21:02:17:773  Info  TCP断开连接成功
+21:02:18:820  Info  TCP连接成功 IP:192.168.250.65
+21:02:18:877  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+21:02:27:061  Info  成功发送指令vm.pause(T1102.PRG):""
+21:02:27:186  Info  成功发送指令vm.unload(T1102.PRG):""
+21:02:29:510  Info  TCP断开连接成功
+21:02:30:543  Info  TCP连接成功 IP:192.168.250.65
+21:02:30:585  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+21:02:53:011  Info  成功发送指令vm.pause(T1102.PRG):""
+21:02:53:162  Info  成功发送指令vm.unload(T1102.PRG):""
+21:02:56:195  Info  TCP断开连接成功
+21:02:57:229  Info  TCP连接成功 IP:192.168.250.65
+21:02:57:271  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+21:02:58:996  Info  成功发送指令vm.pause(T1102.PRG):""
+21:02:59:133  Info  成功发送指令vm.unload(T1102.PRG):""
+21:03:12:950  Info  成功发送指令mot.setGpEn(0,true):
+21:03:13:075  Info  成功发送指令mot.setOpMode(3):
+21:03:13:143  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+21:03:13:182  Info  成功发送指令mot.setVord(75):
+21:03:13:195  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+21:03:13:211  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+21:03:24:076  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:26:332  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:26:475  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:26:805  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:26:916  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:27:059  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:27:180  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:27:320  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:27:485  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:27:734  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:27:905  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:28:036  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:28:216  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:28:328  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:28:472  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:28:615  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:28:761  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:28:955  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:29:104  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:29:284  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:29:436  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:29:632  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:29:764  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:03:31:740  Info  TCP断开连接成功
+21:03:32:272  Info  TCP连接成功 IP:192.168.250.65
+21:03:32:350  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+21:03:35:189  Info  成功发送指令vm.pause(T1102.PRG):""
+21:03:35:325  Info  成功发送指令vm.unload(T1102.PRG):""
+21:03:58:112  Info  TCP断开连接成功
+21:04:14:963  Info  TCP连接成功 IP:192.168.250.65
+21:04:15:231  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+21:04:15:990  Info  成功发送指令vm.pause(T1102.PRG):""
+21:04:16:108  Info  成功发送指令vm.unload(T1102.PRG):""
+21:04:18:822  Info  成功发送指令mot.setGpEn(0,true):
+21:04:19:058  Info  成功发送指令mot.setOpMode(3):
+21:04:19:133  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+21:04:19:148  Info  成功发送指令mot.setVord(75):
+21:04:19:162  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+21:04:19:173  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+21:04:28:265  Info  成功发送指令mot.setGpEn(0,true):
+21:04:28:457  Info  成功发送指令mot.setOpMode(3):
+21:04:28:614  Info  成功发送指令mot.setAutoMode(AUTO_MODE_CONTINUE):null
+21:04:28:639  Info  成功发送指令mot.setVord(75):
+21:04:28:658  Info  成功发送指令vm.load(\"/usr/codesys/hsc3_app/script\",\"T1102.PRG\"):""
+21:04:28:669  Info  成功发送指令vm.start(\"T1102.PRG\"):""
+21:04:42:618  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:43:662  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:43:860  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:43:998  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:44:121  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:44:263  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:44:363  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:44:627  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:44:771  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:44:887  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:45:076  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:45:172  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:45:303  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:45:439  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:45:596  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:45:792  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:45:900  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:46:067  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:46:199  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:46:375  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:46:541  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:46:648  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:46:763  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:46:920  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:47:097  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:47:275  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:47:363  Info  成功发送指令vm.unload(\"T1102.PRG\"):""
+21:04:49:080  Info  TCP断开连接成功
+21:04:50:108  Info  TCP连接成功 IP:192.168.250.65
+21:04:50:154  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+21:04:52:989  Info  成功发送指令vm.pause(T1102.PRG):""
+21:04:53:102  Info  成功发送指令vm.unload(T1102.PRG):""
+21:05:21:041  Error  一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+21:05:22:054  Info  TCP连接成功 IP:192.168.250.65
+21:05:22:108  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+21:05:25:489  Info  TCP断开连接成功

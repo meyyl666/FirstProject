@@ -49,7 +49,7 @@ namespace WinFormsBase
             this.lbl_LoginUser.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lbl_LoginUser.Location = new System.Drawing.Point(72, 109);
             this.lbl_LoginUser.Name = "lbl_LoginUser";
-            this.lbl_LoginUser.Size = new System.Drawing.Size(74, 21);
+            this.lbl_LoginUser.Size = new System.Drawing.Size(92, 27);
             this.lbl_LoginUser.TabIndex = 0;
             this.lbl_LoginUser.Text = "登录用户";
             // 
@@ -61,7 +61,7 @@ namespace WinFormsBase
             this.lbl_LoginPassWord.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lbl_LoginPassWord.Location = new System.Drawing.Point(72, 152);
             this.lbl_LoginPassWord.Name = "lbl_LoginPassWord";
-            this.lbl_LoginPassWord.Size = new System.Drawing.Size(74, 21);
+            this.lbl_LoginPassWord.Size = new System.Drawing.Size(92, 27);
             this.lbl_LoginPassWord.TabIndex = 0;
             this.lbl_LoginPassWord.Text = "登录密码";
             // 
@@ -71,7 +71,7 @@ namespace WinFormsBase
             this.txt_UserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txt_UserName.Location = new System.Drawing.Point(196, 112);
             this.txt_UserName.Name = "txt_UserName";
-            this.txt_UserName.Size = new System.Drawing.Size(100, 20);
+            this.txt_UserName.Size = new System.Drawing.Size(100, 23);
             this.txt_UserName.TabIndex = 1;
             this.txt_UserName.TextChanged += new System.EventHandler(this.txt_UserName_TextChanged);
             this.txt_UserName.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_UserName_KeyDown);
@@ -81,7 +81,7 @@ namespace WinFormsBase
             this.txt_PassWord.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txt_PassWord.Location = new System.Drawing.Point(196, 152);
             this.txt_PassWord.Name = "txt_PassWord";
-            this.txt_PassWord.Size = new System.Drawing.Size(100, 23);
+            this.txt_PassWord.Size = new System.Drawing.Size(100, 27);
             this.txt_PassWord.TabIndex = 2;
             // 
             // btn_Login
@@ -121,6 +121,7 @@ namespace WinFormsBase
             // 
             // contextMenuStrip1
             // 
+            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
@@ -128,12 +129,12 @@ namespace WinFormsBase
             // 
             this.txt_dbstate.Location = new System.Drawing.Point(12, 12);
             this.txt_dbstate.Name = "txt_dbstate";
-            this.txt_dbstate.Size = new System.Drawing.Size(195, 23);
+            this.txt_dbstate.Size = new System.Drawing.Size(195, 27);
             this.txt_dbstate.TabIndex = 4;
             // 
             // FrmLogin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(101)))), ((int)(((byte)(107)))));

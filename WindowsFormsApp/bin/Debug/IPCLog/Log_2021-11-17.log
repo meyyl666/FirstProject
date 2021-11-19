@@ -1,0 +1,241 @@
+10:10:34:082  Error  TCP断开连接失败
+10:12:28:417  Error  TCP断开连接失败
+10:14:00:653  Error  TCP断开连接失败
+10:21:14:265  Info  TCP连接成功 IP:192.168.250.65
+10:21:14:861  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+10:21:21:029  Info  TCP断开连接成功
+10:22:10:292  Info  TCP连接成功 IP:192.168.250.65
+10:22:10:540  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+10:25:25:968  Info  成功发送指令mot.setEstop(true):
+10:28:06:996  Info  成功发送指令mot.setEstop(true):
+10:46:02:748  Info  TCP连接成功 IP:192.168.250.65
+10:46:03:014  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+10:46:14:689  Info  成功发送指令vm.pause(T1102.PRG):""
+10:46:59:586  Info  成功发送指令vm.pause(T1102.PRG):""
+10:47:48:509  Info  成功发送指令vm.pause(T1102.PRG):""
+11:00:38:393  Info  TCP连接成功 IP:192.168.250.65
+11:00:38:637  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+11:00:52:235  Info  TCP断开连接成功
+11:50:30:272  Info  TCP连接成功 IP:192.168.250.65
+11:50:30:577  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+11:50:36:222  Info  TCP断开连接成功
+13:12:20:151  Info  TCP连接成功 IP:192.168.250.65
+13:12:20:378  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:12:42:220  Info  TCP断开连接成功
+13:17:52:112  Info  TCP连接成功 IP:192.168.250.65
+13:17:52:318  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:19:23:878  Info  TCP连接成功 IP:192.168.250.65
+13:19:24:064  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:26:01:185  Info  TCP连接成功 IP:192.168.250.65
+13:26:01:384  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:38:58:491  Info  TCP连接成功 IP:192.168.250.65
+13:38:58:941  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:41:20:163  Info  TCP连接成功 IP:192.168.250.65
+13:41:20:485  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:43:19:173  Info  TCP连接成功 IP:192.168.250.65
+13:43:19:463  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:43:20:858  Info  TCP断开连接成功
+13:43:20:863  Error  一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+13:43:25:296  Info  TCP连接成功 IP:192.168.250.65
+13:43:25:327  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:43:27:293  Info  TCP断开连接成功
+13:43:31:540  Error  TCP断开连接失败
+13:45:37:410  Info  TCP连接成功 IP:192.168.250.65
+13:45:37:607  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:45:47:313  Info  TCP断开连接成功
+13:53:16:650  Error  TCP断开连接失败
+13:54:25:695  Info  TCP连接成功 IP:192.168.250.65
+13:54:26:117  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:54:28:202  Error  一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+13:54:34:682  Error  TCP断开连接失败
+13:54:39:755  Info  TCP连接成功 IP:192.168.250.65
+13:54:39:971  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+13:54:47:768  Info  TCP断开连接成功
+13:54:52:365  Error  TCP断开连接失败
+13:55:04:219  Error  TCP断开连接失败
+14:11:21:972  Info  TCP连接成功 IP:192.168.250.65
+14:11:22:219  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:11:40:612  Info  TCP断开连接成功
+14:12:35:488  Info  TCP连接成功 IP:192.168.250.65
+14:12:35:710  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:12:53:727  Info  TCP断开连接成功
+14:13:06:747  Info  TCP连接成功 IP:192.168.250.65
+14:13:06:945  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:15:25:207  Info  TCP连接成功 IP:192.168.250.65
+14:15:25:424  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:15:34:433  Info  TCP断开连接成功
+14:16:15:204  Info  TCP连接成功 IP:192.168.250.65
+14:16:15:391  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:16:30:022  Info  TCP断开连接成功
+14:16:45:133  Info  TCP连接成功 IP:192.168.250.65
+14:16:45:339  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:18:08:538  Info  TCP连接成功 IP:192.168.250.65
+14:18:08:793  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:18:22:588  Info  TCP断开连接成功
+14:20:12:131  Info  TCP连接成功 IP:192.168.250.65
+14:20:12:426  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:20:17:914  Info  TCP断开连接成功
+14:21:20:468  Info  TCP连接成功 IP:192.168.250.65
+14:21:20:754  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:34:41:700  Info  TCP连接成功 IP:192.168.250.65
+14:34:41:962  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:48:49:563  Info  TCP连接成功 IP:192.168.250.65
+14:48:49:948  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:49:26:905  Info  TCP连接成功 IP:192.168.250.65
+14:49:27:091  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:49:31:311  Info  TCP断开连接成功
+14:49:47:144  Error  TCP断开连接失败
+14:49:55:061  Info  TCP连接成功 IP:192.168.250.65
+14:49:55:396  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:51:08:053  Info  TCP连接成功 IP:192.168.250.65
+14:51:08:290  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:55:17:713  Info  TCP连接成功 IP:192.168.250.65
+14:55:17:898  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:56:15:731  Info  TCP连接成功 IP:192.168.250.65
+14:56:15:933  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:57:28:866  Info  TCP连接成功 IP:192.168.250.65
+14:57:29:066  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:57:33:920  Info  TCP断开连接成功
+14:58:34:300  Error  TCP断开连接失败
+14:58:39:301  Info  TCP连接成功 IP:192.168.250.65
+14:58:39:578  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:58:45:964  Info  TCP断开连接成功
+14:59:41:787  Info  TCP连接成功 IP:192.168.250.65
+14:59:42:075  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+14:59:48:650  Info  TCP断开连接成功
+15:01:59:326  Info  TCP连接成功 IP:192.168.250.65
+15:01:59:560  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:08:24:631  Error  TCP断开连接失败
+15:24:12:705  Info  TCP连接成功 IP:192.168.250.65
+15:24:12:957  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:24:26:918  Info  TCP断开连接成功
+15:26:10:628  Info  TCP连接成功 IP:192.168.250.65
+15:26:10:840  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:30:26:458  Info  TCP连接成功 IP:192.168.250.65
+15:30:26:695  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:31:02:545  Info  TCP断开连接成功
+15:33:43:394  Info  TCP连接成功 IP:192.168.250.65
+15:33:43:637  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:34:19:701  Info  TCP连接成功 IP:192.168.250.65
+15:34:19:893  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:35:05:010  Info  TCP断开连接成功
+15:35:19:924  Info  TCP连接成功 IP:192.168.250.65
+15:35:20:220  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:36:50:066  Error  TCP断开连接失败
+15:37:54:101  Info  TCP连接成功 IP:192.168.250.65
+15:37:54:228  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:38:00:141  Info  TCP断开连接成功
+15:38:50:535  Info  TCP连接成功 IP:192.168.250.65
+15:38:50:778  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:38:57:804  Info  TCP断开连接成功
+15:39:17:569  Info  TCP连接成功 IP:192.168.250.65
+15:39:17:835  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:39:27:901  Info  TCP断开连接成功
+15:39:53:367  Info  TCP连接成功 IP:192.168.250.65
+15:39:53:564  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:40:22:549  Info  TCP连接成功 IP:192.168.250.65
+15:40:22:777  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:40:39:151  Info  TCP断开连接成功
+15:43:29:876  Info  TCP连接成功 IP:192.168.250.65
+15:43:30:111  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:45:31:840  Info  TCP连接成功 IP:192.168.250.65
+15:45:32:046  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:45:46:823  Info  TCP断开连接成功
+15:46:12:347  Info  TCP连接成功 IP:192.168.250.65
+15:46:12:607  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+15:54:49:324  Info  TCP连接成功 IP:192.168.250.65
+15:54:49:545  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+16:09:15:260  Info  TCP连接成功 IP:192.168.250.65
+16:09:15:574  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+16:10:50:599  Info  TCP连接成功 IP:192.168.250.65
+16:10:50:834  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+16:11:18:904  Info  TCP连接成功 IP:192.168.250.65
+16:11:19:148  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+17:42:41:562  Info  TCP连接成功 IP:192.168.250.65
+17:42:42:053  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+17:42:55:128  Info  TCP断开连接成功
+17:52:31:988  Error  TCP断开连接失败
+17:54:25:780  Error  TCP断开连接失败
+18:03:07:402  Error  TCP断开连接失败
+18:51:32:408  Error  TCP断开连接失败
+18:52:18:400  Error  TCP断开连接失败
+18:54:15:037  Error  TCP断开连接失败
+19:01:17:335  Error  TCP断开连接失败
+19:27:34:856  Info  TCP连接成功 IP:192.168.250.65
+19:27:35:450  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+19:31:08:756  Info  TCP连接成功 IP:192.168.250.65
+19:31:09:087  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+19:31:29:592  Info  TCP断开连接成功
+19:34:46:928  Info  TCP连接成功 IP:192.168.250.65
+19:34:47:394  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:18:56:010  Info  TCP连接成功 IP:192.168.250.65
+20:18:56:496  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:19:03:762  Info  TCP连接成功 IP:192.168.250.65
+20:19:03:793  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:19:09:610  Info  TCP断开连接成功
+20:21:54:289  Info  TCP连接成功 IP:192.168.250.65
+20:21:54:773  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:22:09:214  Info  TCP连接成功 IP:192.168.250.65
+20:22:09:280  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:22:14:483  Info  TCP连接成功 IP:192.168.250.65
+20:22:14:527  Error  等待超时 strCmd:mot.getRobTypeName(0)
+20:22:19:689  Info  TCP连接成功 IP:192.168.250.65
+20:22:19:703  Error  远程主机强迫关闭了一个现有的连接。
+20:22:22:706  Error  等待超时 strCmd:mot.getRobTypeName(0)
+20:22:28:201  Info  TCP连接成功 IP:192.168.250.65
+20:22:28:223  Error  远程主机强迫关闭了一个现有的连接。
+20:22:29:246  Error  远程主机强迫关闭了一个现有的连接。
+20:22:31:212  Error  等待超时 strCmd:mot.getRobTypeName(0)
+20:22:32:237  Error  远程主机强迫关闭了一个现有的连接。
+20:28:55:722  Info  TCP连接成功 IP:192.168.250.65
+20:28:56:197  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:29:03:173  Info  TCP断开连接成功
+20:29:05:821  Info  TCP连接成功 IP:192.168.250.65
+20:29:05:873  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:29:08:060  Info  TCP断开连接成功
+20:29:10:820  Info  TCP连接成功 IP:192.168.250.65
+20:29:10:840  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:29:13:571  Info  TCP断开连接成功
+20:29:18:831  Info  TCP连接成功 IP:192.168.250.65
+20:29:18:846  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:29:21:442  Info  TCP断开连接成功
+20:29:24:475  Info  TCP连接成功 IP:192.168.250.65
+20:29:24:496  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:29:26:923  Info  TCP断开连接成功
+20:29:28:018  Info  TCP连接成功 IP:192.168.250.65
+20:29:28:073  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:29:31:690  Info  TCP断开连接成功
+20:29:47:756  Error  TCP断开连接失败
+20:30:21:113  Info  TCP连接成功 IP:192.168.250.65
+20:30:21:569  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:30:24:093  Info  TCP断开连接成功
+20:31:37:570  Info  TCP连接成功 IP:192.168.250.65
+20:31:37:612  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:31:41:193  Info  TCP断开连接成功
+20:31:42:322  Info  TCP连接成功 IP:192.168.250.65
+20:31:42:340  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:31:43:762  Info  TCP断开连接成功
+20:31:44:648  Info  TCP连接成功 IP:192.168.250.65
+20:31:44:675  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:31:46:068  Info  TCP断开连接成功
+20:31:46:936  Info  TCP连接成功 IP:192.168.250.65
+20:31:46:951  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:31:48:052  Info  TCP断开连接成功
+20:31:48:986  Info  TCP连接成功 IP:192.168.250.65
+20:31:49:030  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:31:50:112  Info  TCP断开连接成功
+20:31:50:996  Info  TCP连接成功 IP:192.168.250.65
+20:31:51:031  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:31:52:037  Info  TCP断开连接成功
+20:31:53:305  Info  TCP连接成功 IP:192.168.250.65
+20:31:53:350  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:32:09:294  Info  TCP断开连接成功
+20:32:10:369  Info  TCP连接成功 IP:192.168.250.65
+20:32:10:410  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:32:11:736  Info  TCP断开连接成功
+20:32:24:558  Info  TCP连接成功 IP:192.168.250.65
+20:32:24:570  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:32:28:445  Info  TCP断开连接成功
+20:32:30:047  Info  TCP连接成功 IP:192.168.250.65
+20:32:30:063  Info  成功发送指令mot.getRobTypeName(0):"HC403"
+20:32:36:805  Info  TCP断开连接成功

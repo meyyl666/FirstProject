@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\bin\Debug\jixiebi.exe.config
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\bin\Debug\jixiebi.exe
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\bin\Debug\jixiebi.pdb
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\bin\Debug\CommApidCS.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\bin\Debug\Hsc3ApidCS.dll
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\obj\Debug\jixiebi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\obj\Debug\jixiebi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\obj\Debug\jixiebi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\obj\Debug\jixiebi.exe
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\obj\Debug\jixiebi.pdb
+C:\Users\Administrator\Desktop\项目 (1)\上位机\WinFormsBase\jixiebi\obj\Debug\jixiebi.csproj.AssemblyReference.cache

@@ -15,7 +15,20 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="NModbus" Version="3.0.62" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CSkin">
+      <HintPath>..\packages\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Hsc3ApidCS">
+      <HintPath>..\packages\Hsc3ApidCS.dll</HintPath>
+    </Reference>
+    <Reference Include="HZH_Controls">
+      <HintPath>..\packages\HZH_Controls.1.0.14\lib\net40\HZH_Controls.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup>
